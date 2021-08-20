@@ -1,10 +1,6 @@
 # budget-tracker
 
-<<<<<<< HEAD
 <div style="text-align:center"><img src="./resources/budgetTracker.gif" /></div>
-=======
-![App Demo](./resources/budgetTracker.gif)
->>>>>>> 26ce84d9ebdb0e0d650c28ffcc9dbd69ae46924f
 
 In this series for Android development with Kotlin for beginners, you will learn how to make a budget tracker app from start to finish.  Together, through 7 lessons, we'll build this application, a budget tracker where:
 
